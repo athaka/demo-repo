@@ -12,4 +12,3 @@ _ Coding is beautiful._
 5.
 6.
 7.
-https://meet.google.com/eyr-zamx-tsx
